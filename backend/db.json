@@ -1,0 +1,24 @@
+{
+  "veiculos": [
+    {
+      "id": "1",
+      "nome": "onix",
+      "preco": "5"
+    },
+    {
+      "id": "2",
+      "nome": "Polo",
+      "preco": "5"
+    },
+    {
+      "id": "3",
+      "nome": "Gol",
+      "preco": "15"
+    },
+    {
+      "id": "6ccf",
+      "nome": "fox1",
+      "preco": "1000"
+    }
+  ]
+}
